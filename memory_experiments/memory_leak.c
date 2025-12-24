@@ -14,5 +14,5 @@ int main() {
     }
     printf("Approximately 3 GB RAM leaked! Press any key to exit... \n");
     getchar();
-    return 0;
+    return 0; // OS reclaims the memory after the entire program exits
 }
