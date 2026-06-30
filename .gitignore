@@ -1,0 +1,8 @@
+# Compiled executables (convention: build with -o name.out)
+*.out
+
+# Default gcc/clang output when -o is omitted
+a.out
+
+# Object files
+*.o
